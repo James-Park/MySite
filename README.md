@@ -1,4 +1,4 @@
-# MySite
+# MySite - Master
 Python Django Study Project
 
 
